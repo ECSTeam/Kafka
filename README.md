@@ -6,5 +6,5 @@ This document explains how to setup a cloud foundry app to communicate with Kafk
 #### Install and configure Kafka for SASL
 #### Install bosh-lite and configure bosh-lite to use DNS server
 #### Develop Service Broker
-#### Create Service Broker 
+#### Create Service Broker and service instance in cloud foundry
 #### Deploy the spring boot app and bind the kafka service instance
