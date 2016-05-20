@@ -192,7 +192,7 @@ Force time update on both servers so that time is in sync.
 	
 
 	$ sudo service ntp stop
-	$ sudo ntpdate -s time.nist.gov
+	$ sudo ntpdate -s time.apple.com
 	$ sudo service ntp start
 
 Now our servers are ready for Kerberos installation.
